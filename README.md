@@ -28,12 +28,10 @@
   </a>
 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" width="40" height="40"/>
+    <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" width="60" height="60"/>
   </a>
 
-  <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlalchemy/sqlalchemy-icon.svg" alt="SQLAlchemy" width="40" height="40"/>
-  </a>
+ 
 
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
